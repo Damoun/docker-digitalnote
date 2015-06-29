@@ -1,0 +1,3 @@
+[submodule "digitalnote"]
+	path = digitalnote
+	url = https://github.com/xdn-project/digitalnote
